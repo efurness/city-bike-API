@@ -2,11 +2,8 @@
 
 
 ### Description 
-
-This project involved making a coding quiz using Javascript.   An html displays an initial webpage with a timer followed by a panel with a question box with Coding Quiz. Below is a start button and next button.  The timer shows seconds left for the user using an setInterval function and starts when user clicks the start button. Each question is stored in the javascript which then presents with a list of options that the user clicks followed by clicking the next button. 5 seconds are deducted for each wrong guess.
-
-For each question, the values for each question are stored in an inner html div element within the javascript and a ul list item below the question. Javascript is actually creating the elements on the page as they come up.  The script records each option and at the end of the quiz a pop up window prompt appears for the test taker to enter their intials followed by another pop up window alert with their initials and score.  These are stored using local storage set item. 
-
+The project involved creating a modal to add to the main webpage of city-scapes.  Following the initial idea, an API was selected was from a  small company city-bikes having wide-ranging data, collecting from a network thoroughout the world.  It used RAPID API and was free to get a key.  Successfully, the javascript code brought the objects into the console but was difficult to attribute to the text of the modal.  The project is a work in progress and for the future will be able to put this into the modal and have it linked through the main website to get facts and city bike locations, and ultimately, provide useful information like the url of the site, how many bikes there are, the city, idx, if free, the types of bikes, coordinates of the depo, and the station url.  This project was enlightening of how an API works.  Please visit again soon!
+ 
 
 ## Review
 
