@@ -17,7 +17,7 @@ https://efurness.github.io/city-bike-API/
 
 ## Contact
 
-Ellen Furness - [Ellen.Furness@du.edu]
+Ellen F.
 
 ## Acknowledgments
 
